@@ -1,8 +1,5 @@
-.container {
-  margin-top: 50px;
-}
 div.container-b {
-  margin-top: 300px;
+  margin-top: 60px;
 }
 div.card-a,
 div.card-b {
@@ -26,4 +23,7 @@ div.card-e {
   border-radius: 4px;
   box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(197, 197, 197),
     0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+a {
+  font-size: 40%;
 }
