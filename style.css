@@ -1,0 +1,29 @@
+.container {
+  margin-top: 50px;
+}
+div.container-b {
+  margin-top: 300px;
+}
+div.card-a,
+div.card-b {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/028/587/original/clouds.jpg?1646481386");
+  background-size: 100% auto;
+  border-radius: 4px;
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(197, 197, 197),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+div.card-c,
+div.card-d {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/028/589/original/sunclouds.jpg?1646488206");
+  background-size: 100% auto;
+  border-radius: 4px;
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(197, 197, 197),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+div.card-e {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/028/590/original/sunny.jpg?1646488221");
+  background-size: 100% auto;
+  border-radius: 4px;
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(197, 197, 197),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
